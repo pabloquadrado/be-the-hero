@@ -11,6 +11,10 @@ Aplicação construída do zero na semana Omnistack 11.0 da RocketSeat utilizand
 
 ## :iphone: Mobile
 
-<img src="/mobile/assets/splash.png" width=300 height=600>
-<img src="/mobile-incidents.jpeg" width=300 height=600>
-<img src="/mobile-detail.jpeg" width=300 height=600>
+<table>
+  <tr>
+    <td> <img src="/mobile/assets/splash.png" width=300 height=600> </td> 
+    <td> <img src="/mobile-detail.jpeg" width=300 height=600> </td>
+    <td> <img src="/mobile-incidents.jpeg" width=300 height=600> </td>
+  </tr>
+</table>
